@@ -8,5 +8,5 @@
 - 🚀 This project has the ability to convert images into cartoon pictures. The original picture is as follows.
   - ![image2cartoon](https://user-images.githubusercontent.com/90232567/228507073-6166f5c9-cff9-404b-89cb-e7dc5b4cae7a.jpg)
 - 🌄 Here's the result. Like this!
-  - 
-- 🎪 <It also has other functions. For example, you can change the color or resize your pen.>
+  - <img width="753" alt="ddd" src="https://user-images.githubusercontent.com/90232567/228512764-4ec4a029-684b-4de6-b6e2-5f4622a22980.png">
+- 🎪 I've made a pencil cartoon code, but I get the same result
